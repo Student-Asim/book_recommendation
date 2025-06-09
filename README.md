@@ -2,7 +2,7 @@
 # book_recommendation
 
 
-![Alt text](book_recommendation/book/static/Screenshot 2025-06-09 100755.png)
+![App Screenshot](book/stScreenshot 2025-06-09 100755.png)
 # 📚 Book Recommendation System using Django & Machine Learning
 
 A basic web application built using **Django** that recommends similar books based on user input using a trained **machine learning model**. This project demonstrates how to integrate a recommendation system with a Django-based web interface.
